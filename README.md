@@ -46,6 +46,7 @@ This Power BI project focuses on delivering actionable insights across key dimen
 ## Dashboard Overview
 
   - The Coffee Shop Sales Dashboard includes:
+<img width="1380" height="777" alt="image" src="https://github.com/user-attachments/assets/efc81075-5564-4a2f-afd3-02e4bf2fbebb" />
 
 
 ## 🔎 Interactive Filters
