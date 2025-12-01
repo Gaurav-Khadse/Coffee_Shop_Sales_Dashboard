@@ -71,7 +71,7 @@ This Power BI project focuses on delivering actionable insights across key dimen
 
 - Tool Used: Power BI
 
-- Dataset: [Coffee Shop Sales Dashboard](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/coffee-shop-sales-dataset)
+- Dataset: [Coffee Shop Sales Dataset](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/coffee-shop-sales-dataset)
 
 ## Visuals Used:
 
