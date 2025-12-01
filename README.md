@@ -47,6 +47,7 @@ This Power BI project focuses on delivering actionable insights across key dimen
 
   - The Coffee Shop Sales Dashboard includes:
 
+
 ## 🔎 Interactive Filters
 
 - Day Name Slicer for daily comparisons
